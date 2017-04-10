@@ -1,0 +1,6 @@
+# view res/layout/main.xml #generated:1
+-keep class .GameOfLife { <init>(...); }
+
+# view AndroidManifest.xml #generated:1
+-keep class processing.test.gameoflife.MainActivity { <init>(...); }
+
